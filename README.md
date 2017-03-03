@@ -2,7 +2,7 @@
 
 
 Problem
-Design, implement and test a C++ program that calculates the area of 2D shapes (circle, square, equilateral triangle and regular hexagon). Your program must calculate the distance between any two 2D shapes. HINT: Use their centers as XY locations.
+Design, implement and test a C++ program that calculates the area of 2D shapes (circle, square, equilateral triangle and regular hexagon). Your program must calculate the distance between any two 2D shapes. Using their centers as XY locations.
 
 
 Objectives
