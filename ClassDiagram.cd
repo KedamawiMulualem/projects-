@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="circle" Collapsed="true">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAIAIEAACAAAAAAEAAAAAAAAAIABhAM=</HashCode>
+      <FileName>circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hexagon" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAAAAAAAAEAAAAAAAAAEAAAAIAAAAIABhAM=</HashCode>
+      <FileName>hexagon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="twoDshapes" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAEAAAAAAAAAEAAAAAAAAEIABhAM=</HashCode>
+      <FileName>twoDshapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="triangle" Collapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAkAAAQAAAAAEAAAAAAAAAIABhAM=</HashCode>
+      <FileName>triangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="square" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAEAAAAAAAAAEAAAAAAAAQIABpAM=</HashCode>
+      <FileName>square.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
